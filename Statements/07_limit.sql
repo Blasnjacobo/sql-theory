@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE NOT email = 'BLASNJACOBO05@GMAIL.COM'  or age = 15 LIMIT 2;
